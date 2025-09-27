@@ -37,12 +37,12 @@ body {
 
 /* Esfera laranja */
 .sphere.orange {
-  background: gray;
+  background: white;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.8), 0 0 30px rgba(255, 111, 0, 0.5);
 }
 
 /* Esfera azul */
 .sphere.blue {
-  background: rgb(32, 44, 206);
+  background: white;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.8), 0 0 30px rgba(25, 118, 210, 0.5);
 }
