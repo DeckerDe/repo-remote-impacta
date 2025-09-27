@@ -31,7 +31,7 @@ body {
 
 /* Esfera verde */
 .sphere.green {
-  background: gray;
+  background: white;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.8), 0 0 30px rgba(46, 125, 50, 0.5);
 }
 
