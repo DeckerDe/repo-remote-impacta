@@ -43,6 +43,6 @@ body {
 
 /* Esfera azul */
 .sphere.blue {
-  background: rgb(233, 43, 43);
+  background: rgb(233, 43, 45);
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.8), 0 0 30px rgba(25, 118, 210, 0.5);
 }
